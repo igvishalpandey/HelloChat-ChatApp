@@ -18,13 +18,17 @@ To run the HelloMe ChatApp locally, follow these steps:
 
 ## Screenshots
 
-<img src= "Screenshot/signup_page.png" alt= "signup_page"/> Signup Page
+Signup Page
+</br><img src= "Screenshot/signup_page.png" alt= "signup_page"/>
 </br>
-<img src= "Screenshot/login_page.png" alt= "signup_page"/> Login Page
+Login Page
+</br><img src= "Screenshot/login_page.png" alt= "signup_page"/>
 </br>
-<img src= "Screenshot/Dashboard.png" alt= "signup_page"/> Dashboard
+Dashboard
+</br><img src= "Screenshot/Dashboard.png" alt= "signup_page"/> 
 </br>
-<img src= "Screenshot/chat_interface.png" alt= "signup_page"/> </br><h5>Chat Interface</h5>
+Chat Interface
+</br><img src= "Screenshot/chat_interface.png" alt= "signup_page"/>
 </br>
 
 
